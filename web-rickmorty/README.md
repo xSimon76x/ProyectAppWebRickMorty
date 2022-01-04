@@ -1,19 +1,19 @@
-# ProyectAppWebRickMorty en progreso
+# Proyecto Web Rick and Morty (API-Vue)
 
-## Project setup
+## Configuración del proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila y recarga para el desarrollo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila y minimiza para producción
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Personalizar configuración
+Ver [referencia de configuración](https://cli.vuejs.org/config/).
